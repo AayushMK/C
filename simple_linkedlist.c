@@ -8,8 +8,8 @@ typedef struct Node
 } Node;
 
 Node *head;
-Node *gNptr;
-int *gptr;
+// Node *gNptr;
+// int *gptr;
 
 void print_menu()
 {
